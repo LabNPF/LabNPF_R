@@ -5,6 +5,8 @@ Resources for R for the Laboratory of Neuropsychophysiology
 - R: https://www.r-project.org/
 - RStudio: https://www.rstudio.com/
 
+- Teaching reproducible research using R (Univ. of Glasgow): https://psyteachr.github.io/
+
 ### Introductions: videos
 - Basic introduction to RStudio panels (6 min.): https://www.youtube.com/watch?v=FIrsOBy5k58
 - Full introduction to RStudio and basic R (25 mins.): https://www.youtube.com/watch?v=TQMAKGDIe_8
