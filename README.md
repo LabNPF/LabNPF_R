@@ -1,6 +1,16 @@
 # LabNPF_R
 Resources for R for the Laboratory of Neuropsychophysiology
 
+## R template
+- R template/notebook with common analyses that can be used as a base for new users
+  - Status: to be prepared at the Lab's R Hackaton (2022-12-02)
+
+## Useful R Packages
+- List of R packages that are commonly used in the lab
+  - Status: to be prepared
+
+---
+
 ### Core Links
 - R: https://www.r-project.org/
 - RStudio: https://www.rstudio.com/
@@ -16,4 +26,4 @@ Resources for R for the Laboratory of Neuropsychophysiology
 - Intro book, stats focus: https://learningstatisticswithr.com/book/
 - Many others
 
-###
+---
