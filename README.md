@@ -4,6 +4,7 @@ Resources for R for the Laboratory of Neuropsychophysiology
 ## R templates
 - R templates/notebooks with common analyses that can be used as a base for new users
   - Note: these files were be prepared at the Lab's R Hackaton (2022-12-02) and have not been revised (no warranties that the code is error free, nor any other warranties of any sort)! Ensure you understand the code and use at your own risk.
+  - https://github.com/LabNPF/LabNPF_R/tree/main/2022-11-02%20Hackaton%20R%20LabNPF
   
 
 ## Useful R Packages
