@@ -101,4 +101,5 @@ Diffusion Tensor Imaging: Structural Adaptive Smoothing, Neuroimage
 ---
 
 Author: Fernando Ferreira-Santos (http://ferreira-santos.eu)
+
 Date: 2023-01-08
