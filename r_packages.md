@@ -98,6 +98,7 @@ Diffusion Tensor Imaging: Structural Adaptive Smoothing, Neuroimage
 5 - https://cran.r-project.org/web/packages/erpR/erpR.pdf
 
 
+---
 
-Fernando Ferreira-Santos
-2023-01
+Author: Fernando Ferreira-Santos (http://ferreira-santos.eu)
+Date: 2023-01-08
