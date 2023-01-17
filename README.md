@@ -26,6 +26,5 @@ Resources for R for the Laboratory of Neuropsychophysiology
 - Douglas A., et al. (2022). An Introduction to R. https://intro2r.com/ (intro book, technical focus)
 - Navarro, D. (2019). Learning statistics with R. https://learningstatisticswithr.com/book/ (intro book, stats focus)
 - DeBruine, L. (n.d.). psyTeachR. https://debruine.github.io/project/psyteachr/ (resources for learning R: books, code, etc.)
-- Muenchen, R. A. (). [R for SAS and SPSS users](https://onedrive.live.com/?authkey=%21AAheP%5FhBznzI1Z8&cid=6C40810986A4E53F&id=6C40810986A4E53F%21248391&parId=6C40810986A4E53F%2167337&o=OneUp).
 
 ---
