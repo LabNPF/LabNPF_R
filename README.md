@@ -22,7 +22,7 @@ Resources for R for the Laboratory of Neuropsychophysiology
 - Full introduction to RStudio and basic R (25 mins.): https://www.youtube.com/watch?v=TQMAKGDIe_8
 
 ### Introductions: books
-- Very short intro to R (12 pages): https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R
+- Torfs & Brauer (2021). Very short intro to R. https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R (quick 12 page intro!)
 - Douglas A., et al. (2022). An Introduction to R. https://intro2r.com/ (intro book, technical focus)
 - Navarro, D. (2019). Learning statistics with R. https://learningstatisticswithr.com/book/ (intro book, stats focus)
 - DeBruine, L. (n.d.). psyTeachR. https://debruine.github.io/project/psyteachr/ (resources for learning R: books, code, etc.)
