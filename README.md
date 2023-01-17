@@ -15,7 +15,7 @@ Resources for R for the Laboratory of Neuropsychophysiology
 ### Core Links
 - R: https://www.r-project.org/
 - RStudio: https://www.rstudio.com/
-- Teaching reproducible research using R (Univ. of Glasgow): https://psyteachr.github.io/
+- Teaching reproducible research using R (University of Glasgow): https://psyteachr.github.io/
 
 ### Introductions: videos
 - Basic introduction to RStudio panels (6 min.): https://www.youtube.com/watch?v=FIrsOBy5k58
@@ -23,8 +23,9 @@ Resources for R for the Laboratory of Neuropsychophysiology
 
 ### Introductions: books
 - Very short intro to R (12 pages): https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R
-- Intro book, technical focus: https://intro2r.com/
-- Intro book, stats focus: https://learningstatisticswithr.com/book/
-- Many others
+- Douglas A., et al. (2022). An Introduction to R. https://intro2r.com/ (intro book, technical focus)
+- Navarro, D. (2019). Learning statistics with R. https://learningstatisticswithr.com/book/ (intro book, stats focus)
+- DeBruine, L. (n.d.). psyTeachR. https://debruine.github.io/project/psyteachr/ (resources for learning R: books, code, etc.)
+- Muenchen, R. A. (). [R for SAS and SPSS users](https://onedrive.live.com/?authkey=%21AAheP%5FhBznzI1Z8&cid=6C40810986A4E53F&id=6C40810986A4E53F%21248391&parId=6C40810986A4E53F%2167337&o=OneUp).
 
 ---
