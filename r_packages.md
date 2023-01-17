@@ -39,6 +39,7 @@
 
 * [BayesFactor](https://cran.r-project.org/web/packages/BayesFactor/): Computation of Bayes Factors for Common Designs
 * [lme4](https://cran.r-project.org/web/packages/lme4/): Linear Mixed-Effects Models using 'Eigen' and S4
+* [effectsize](https://cran.r-project.org/web/packages/effectsize/): Indices of Effect Size (see also https://easystats.github.io/easystats/)
 * [metafor](https://cran.r-project.org/web/packages/metafor/): Meta-Analysis Package for R (https://www.metafor-project.org)
 * [nlme](https://cran.r-project.org/web/packages/nlme/): Linear and Nonlinear Mixed Effects Models
 * [performance](https://cran.r-project.org/web/packages/performance/): Assessment of Regression Models Performance (includes model_check for assumptions)
