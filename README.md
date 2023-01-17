@@ -8,7 +8,7 @@ Resources for R for the Laboratory of Neuropsychophysiology
   
 
 ## Useful R Packages
-- [List of R packages that are commonly used in the lab](https://github.com/LabNPF/LabNPF_R/blob/main/r_packages.md)
+- [List of R packages of (potential) interest in the lab](https://github.com/LabNPF/LabNPF_R/blob/main/r_packages.md)
 
 ---
 
