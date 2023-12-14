@@ -1,0 +1,45 @@
+name,illnessduration,medication,outcome,d,r,se,samplesize,year,meanage,malepercentage,response,targetprobability,tprob,standardfrequency,targetfrequency,isi,intensity,duration,frequencydifference
+Blackwood et al (1987),,0,Standard Amplitude Cz,-0.53,-0.37,0.10976426,83,1987,36.84,0.49,Covert,15% or less,10,1000,1500,1100,65,20,500
+Blackwood et al (1987),,0,Standard Latency Cz,-0.22,-0.16,0.10976426,83,1987,36.84,0.49,Covert,15% or less,10,1000,1500,1100,65,20,500
+Hegerl et al (1988),7.6,207,Standard Amplitude Cz,0.04,0.03,0.125988158,63,1988,33.76,0.51,Covert,20%,20,800,1600,1100,65,,800
+Hegerl et al (1988),7.6,207,Standard Latency Cz,-0.11,-0.08,0.125988158,63,1988,33.76,0.51,Covert,20%,20,800,1600,1100,65,,800
+Hegerl et al (1988),7.6,207,Target Amplitude Cz,-0.08,-0.06,0.125988158,63,1988,33.76,0.51,Covert,20%,20,800,1600,1100,65,,800
+Hegerl et al (1988),7.6,207,Target Latency Cz,0.41,0.29,0.125988158,63,1988,33.76,0.51,Covert,20%,20,800,1600,1100,65,,800
+Muir et al (1991),,,Standard Amplitude Cz,-0.5,-0.35,0.057166195,306,1991,30.81,0.61,Covert,15% or less,10,1000,1500,1100,70,,500
+Muir et al (1991),,,Standard Latency Cz,-0.28,-0.2,0.057166195,306,1991,30.81,0.61,Covert,15% or less,10,1000,1500,1100,70,,500
+O'Donnell et al (1993),,881,Standard Amplitude Cz,-0.65,-0.46,0.185695338,29,1993,37.74,1,Covert,15% or less,15,1000,1500,1200,97,40,500
+O'Donnell et al (1993),,881,Standard Latency Cz,-1.32,-0.88,0.185695338,29,1993,37.74,1,Covert,15% or less,15,1000,1500,1200,97,40,500
+Ford et al (1994),,0,Standard Amplitude Cz,0.29,0.2,0.130188911,59,1994,41,1,Overt,20%,20,500,1000,1500,80,50,500
+Ford et al (1994),,0,Standard Latency Cz,0.12,0.09,0.130188911,59,1994,41,1,Overt,20%,20,500,1000,1500,80,50,500
+O'Donnell et al (1994),,,Standard Amplitude Cz,-0.72,-0.5,0.158113883,40,1994,37.3,1,Covert,15% or less,15,1000,1500,1200,97,40,500
+O'Donnell et al (1994),,,Standard Latency Cz,-1.05,-0.71,0.158113883,40,1994,37.3,1,Covert,15% or less,15,1000,1500,1200,97,40,500
+Oades et al (1996),,853.6,Standard Amplitude Cz,0,0,0.144337567,48,1996,18.6,0.42,Overt,15% or less,15,800,1400,1450,65,50,600
+Oades et al (1996),,853.6,Target Amplitude Cz,0,0,0.144337567,48,1996,18.6,0.42,Overt,15% or less,15,800,1400,1450,65,50,600
+Stefánsson & Jónsdóttir (1996),14.8,,Standard Amplitude Cz,-0.09,-0.06,0.158113883,40,1996,34.9,1,Covert,20%,20,250,1000,1100,75,20,750
+Stefánsson & Jónsdóttir (1996),14.8,,Standard Latency Cz,-0.05,-0.04,0.158113883,40,1996,34.9,1,Covert,20%,20,250,1000,1100,75,20,750
+Stefánsson & Jónsdóttir (1996),14.8,,Target Amplitude Cz,0.52,0.37,0.158113883,40,1996,34.9,1,Covert,20%,20,250,1000,1100,75,20,750
+Stefánsson & Jónsdóttir (1996),14.8,,Target Latency Cz,0.94,0.65,0.158113883,40,1996,34.9,1,Covert,20%,20,250,1000,1100,75,20,750
+Frangou et al (1997),14.9,,Target Amplitude Cz,-0.18,-0.13,0.124034735,65,1997,36.83,0.46,Overt,20%,20,1000,1500,2000,,,500
+Frangou et al (1997),14.9,,Target Latency Cz,0.54,0.38,0.124034735,65,1997,36.83,0.46,Overt,20%,20,1000,1500,2000,,,500
+Laurent et al (1999),12.5,0,Standard Amplitude Cz,-0.65,-0.46,0.176776695,32,1999,34.49,0.59,Covert,20%,20,1000,2000,900,70,60,1000
+Laurent et al (1999),12.5,0,Standard Latency Cz,-0.01,-0.01,0.176776695,32,1999,34.49,0.59,Covert,20%,20,1000,2000,900,70,60,1000
+Brown et al (2000),,660.5,Standard Amplitude Cz,0.03,0.02,0.111803399,80,2000,36.08,0.73,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2000),,660.5,Standard Latency Cz,-0.64,-0.45,0.111803399,80,2000,36.08,0.73,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2000),,660.5,Target Amplitude Cz,0.92,0.63,0.111803399,80,2000,36.08,0.73,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2000),,660.5,Target Latency Cz,0.54,0.38,0.111803399,80,2000,36.08,0.73,Overt,15% or less,15,1000,1500,1300,60,50,500
+Karoumi et al (2000),9.42,218.94,Standard Amplitude Cz,-0.45,-0.32,0.15430335,42,2000,30.91,0.62,Overt,20%,20,800,1600,,70,,800
+Karoumi et al (2000),9.42,218.94,Standard Latency Cz,0.75,0.53,0.15430335,42,2000,30.91,0.62,Overt,20%,20,800,1600,,70,,800
+Williams et al (2000),12.6,661,Target Amplitude Cz,0.99,0.67,0.111803399,80,2000,34.7,0.73,Overt,15% or less,15,1000,1500,1300,80,50,500
+Williams et al (2000),12.6,661,Target Latency Cz,0.41,0.29,0.111803399,80,2000,34.7,0.73,Overt,15% or less,15,1000,1500,1300,80,50,500
+Bahramali et al (2001),,361,Target Amplitude Cz,1,0.67,0.111803399,80,2001,35.81,0.73,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2002),,385,Standard Amplitude Cz,-0.19,-0.02,0.079056942,160,2002,27.99,0.68,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2002),,385,Standard Latency Cz,-0.4,-0.05,0.079056942,160,2002,27.99,0.68,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2002),,385,Target Amplitude Cz,0.89,0.11,0.079056942,160,2002,27.99,0.68,Overt,15% or less,15,1000,1500,1300,60,50,500
+Brown et al (2002),,385,Target Latency Cz,0.23,0.03,0.079056942,160,2002,27.99,0.68,Overt,15% or less,15,1000,1500,1300,60,50,500
+O'Donnell et al (2004),17.6,,Standard Amplitude Cz,-1.11,-0.75,0.166666667,36,2004,38.8,0.61,Overt,15% or less,15,1000,1500,,86,50,500
+O'Donnell et al (2004),17.6,,Standard Latency Cz,-0.71,-0.5,0.166666667,36,2004,38.8,0.61,Overt,15% or less,15,1000,1500,,86,50,500
+Gilmore et al (2005),,,Standard Latency Cz,-0.29,-0.21,0.188982237,28,2005,42.6,0.46,Covert,20%,20,1000,2000,1000,76,100,1000
+Gilmore et al (2005),,,Target Latency Cz,-0.16,-0.12,0.188982237,28,2005,42.6,0.46,Covert,20%,20,1000,2000,1000,76,100,1000
+Kogoj et al (2005),18.16,,Target Amplitude Cz,0.22,0.16,0.164398987,37,2005,42.4,0.59,Overt,15% or less,15,750,500,2000,65,50,-250
+Salisbury et al (2010) A,,346.8,Standard Amplitude Cz,-0.39,-0.04,0.083333333,144,2010,31.94,0.92,Overt,15% or less,15,1000,1500,1200,97,50,500
+Salisbury et al (2010) B,,236.5,Standard Amplitude Cz,-0.65,-0.15,0.114707867,76,2010,29.28,0.88,Overt,15% or less,15,1000,1500,1200,97,50,500
